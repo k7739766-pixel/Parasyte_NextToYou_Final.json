@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Next To You - Hsafh Solo",
+    "type": "composed",
+    "bpm": 80,
+    "pitch": "C",
+    "version": 3,
+    "data": {
+      "isComposed": true,
+      "isComposedVersion": true,
+      "appName": "Sky"
+    },
+    "songNotes": [
+      {"time": 0, "key": "1Key4"}, {"time": 800, "key": "1Key8"}, {"time": 1600, "key": "1Key11"}, {"time": 2400, "key": "1Key8"},
+      {"time": 3200, "key": "1Key4"}, {"time": 4000, "key": "1Key8"}, {"time": 4800, "key": "1Key11"}, {"time": 5600, "key": "1Key8"},
+      {"time": 6400, "key": "1Key2"}, {"time": 7200, "key": "1Key6"}, {"time": 8000, "key": "1Key9"}, {"time": 8800, "key": "1Key6"},
+      {"time": 9600, "key": "1Key2"}, {"time": 10400, "key": "1Key6"}, {"time": 11200, "key": "1Key9"}, {"time": 12000, "key": "1Key6"},
+      {"time": 12800, "key": "1Key0"}, {"time": 13600, "key": "1Key4"}, {"time": 14400, "key": "1Key7"}, {"time": 15200, "key": "1Key4"},
+      {"time": 16000, "key": "1Key0"}, {"time": 16800, "key": "1Key4"}, {"time": 17600, "key": "1Key7"}, {"time": 18400, "key": "1Key4"},
+      {"time": 19200, "key": "1Key2"}, {"time": 20000, "key": "1Key6"}, {"time": 20800, "key": "1Key9"}, {"time": 21600, "key": "1Key6"},
+      {"time": 22400, "key": "1Key2"}, {"time": 23200, "key": "1Key6"}, {"time": 24000, "key": "1Key9"}, {"time": 24800, "key": "1Key6"},
+      {"time": 25600, "key": "1Key4"}, {"time": 26400, "key": "1Key8"}, {"time": 27200, "key": "1Key11"}, {"time": 28000, "key": "1Key8"}
+    ]
+  }
+]
